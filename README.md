@@ -8,6 +8,7 @@ Run the following commands to set up your `bash` development environment
     ln -sb dotfiles/.bash_aliases .
     ln -sb dotfiles/.pryrc .
     ln -sb dotfiles/.tmux.conf .
+    ln -sb dotfiles/.inputrc .
     source ~/.profile
 
 See https://github.com/SamLau95/vm-setup to install prerequisite programs.
